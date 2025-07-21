@@ -8,3 +8,4 @@ streamlit
 Pillow
 setuptools>=42
 wheel
+build
